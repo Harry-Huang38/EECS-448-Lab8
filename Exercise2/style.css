@@ -3,10 +3,3 @@
     font-size: 25px;
     text-decoration: none;
 }
-
-#bt1{
-    display: block;
-    margin: 50px auto;
-    z-index: 1;
-    position: absolute;
-}
