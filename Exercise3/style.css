@@ -1,0 +1,29 @@
+p{
+    background-color: rgb(8, 208, 235);
+    color: white;
+    font-family: Arial;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+body{
+    background-image: url(https://i.pinimg.com/originals/f3/b0/80/f3b080559488692f833ef88813b25610.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p.link{
+    background-color: rgb(235, 42, 8);
+    color: white;
+    font-family: Arial;
+    font-size: 20px;
+    text-decoration: none;
+    width: 200px;
+    height: 80px;
+    display: block;
+    margin: 50px auto;
+}
+a:hover{
+    background-color:rgb(14, 1, 1);
+    color: rgb(255, 21, 0)}
